@@ -139,3 +139,9 @@ margin-top: -35px;
 margin-right: 5px;
 font-size: 1rem;
 }
+@media screen and (max-width:400px) {
+    ::placeholder{
+        font-size: 1.5rem;
+    }
+    
+}
